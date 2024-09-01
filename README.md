@@ -1,6 +1,8 @@
 # Currency Converter
 
 A currency converter is a tool designed to facilitate the conversion of one currency into another, allowing users to easily determine the equivalent value of a specified amount in different currencies. This functionality is particularly useful for travelers, businesses, and individuals who need to handle transactions involving multiple currencies.
+# Note:
+dont forget to replace your api key with public api key when using
 
 # Features:
 
