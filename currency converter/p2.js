@@ -28,7 +28,7 @@ const updateExchangeRate = async () => {
         amtVal = 1;
         amount.value = "1";
     }
-    const BASE_URL = "https://v6.exchangerate-api.com/v6/857c88fde30041cf7e74dbb6";
+    const BASE_URL = "https://v6.exchangerate-api.com/v6/YOUR_API_KEY";
     const URL = `${BASE_URL}/pair/${fromCurr.value}/${toCurr.value}`;
     try {
         let response = await fetch(URL);
